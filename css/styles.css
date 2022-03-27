@@ -113,12 +113,16 @@ padding: 20px;
   width: 10px;
   height: auto;
   position: absolute;
+  right: 300px;
+  top: 40px;
 }
 
 .top-cloud {
   width: 100px;
   height: auto;
   position: relative;
+  right: 300px;
+  top: 40px;
 }
 
 .python-img {
