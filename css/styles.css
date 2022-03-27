@@ -105,14 +105,14 @@ padding: 20px;
 .sun {
   width: 200px;
   height: auto;
-  position: relative;
+  position: absolute;
   left: 100px;
 }
 
 .bottom-cloud {
   width: 100px;
   height: auto;
-  position: relative;
+  position: absolute;
   left: 300px;
   bottom: 300px;
 }
