@@ -110,7 +110,7 @@ padding: 20px;
 }
 
 .bottom-cloud {
-  width: auto;
+  width: 100px;
   height: auto;
   position: relative;
   left: 300px;
@@ -118,8 +118,8 @@ padding: 20px;
 }
 
 .top-cloud {
-  width: 200px;
-  height: 100px;
+  width: 100px;
+  height: auto;
   position: relative;
   right: 300px;
   top: 40px;
